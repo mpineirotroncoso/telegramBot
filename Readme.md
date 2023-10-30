@@ -12,8 +12,10 @@ git clone https://github.com/mpineirotroncoso/telegramBot
 ```sh
 npm init
 ```
-4. Open the `.env` file and write your bot token. [HOW TO GET A TOKEN]([https://](https://www.siteguarding.com/en/how-to-get-telegram-bot-api-token))
-2. Start your bot
+4. Open the `.env` file and write your bot token. 
+
+[HOW TO GET A TOKEN]([https://](https://www.siteguarding.com/en/how-to-get-telegram-bot-api-token))
+1. Start your bot
 ```sh
 node index.js
 ```
@@ -27,7 +29,7 @@ screenshot # send a screenshot of the screen on the chat
 ```
 
 ## :warning: Discharge of responsability
-This projecxt is a proof of concept and should not be used to do anything harmful, I'm not responsible for any misuse of this tool.
+This project is a proof of concept and should not be used to do anything harmful, I'm not responsible for any misuse of this tool.
 
 # Credits
 * [node-telegram-bot.api](https://www.npmjs.com/package/node-telegram-bot-api)
