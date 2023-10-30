@@ -7,10 +7,11 @@
 2. Clone the repository
 ```sh
 git clone https://github.com/mpineirotroncoso/telegramBot
+cd telegramBot/
 ```
 3. Install all required modules
 ```sh
-npm init
+npm install
 ```
 4. Open the `.env` file and write your bot token. 
 
