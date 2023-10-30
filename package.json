@@ -1,0 +1,24 @@
+{
+  "name": "tgbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpineirotroncoso/telegramBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpineirotroncoso/telegramBot/issues"
+  },
+  "homepage": "https://github.com/mpineirotroncoso/telegramBot#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.64.0",
+    "screenshot-desktop": "^1.15.0"
+  }
+}
