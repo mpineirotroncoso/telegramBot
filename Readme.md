@@ -14,7 +14,7 @@ npm init
 ```
 4. Open the `.env` file and write your bot token. 
 
-[HOW TO GET A TOKEN]([https://](https://www.siteguarding.com/en/how-to-get-telegram-bot-api-token))
+[HOW TO GET A TOKEN](https://www.siteguarding.com/en/how-to-get-telegram-bot-api-token)
 1. Start your bot
 ```sh
 node index.js
